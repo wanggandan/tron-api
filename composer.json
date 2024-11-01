@@ -23,7 +23,7 @@
         "wgd/data-types": "dev-master",
         "guzzlehttp/guzzle": "^7.2",
         "wgd/web3.php": "dev-master",
-        "kornrunner/secp256k1": "^0.2",
+        "kornrunner/secp256k1": "^0.3.0",
         "simplito/elliptic-php": "^1.0",
         "ext-json": "*",
         "ext-bcmath": "*"
